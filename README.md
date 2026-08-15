@@ -1,108 +1,66 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Nureko Kustiarno Wibowo</h1>
+<h3 align="center">Senior Quality Assurance Engineer & Release Lead</h3>
+<h4 align="center">🎮 Ex-Gameloft Game QA · 🏢 Ruangguru QA Lead · ⚽ Pixle Byte Senior QA</h4>
 
-# ⚡ Nureko Kustiarno Wibowo
-### **Senior Quality Assurance Engineer & Release Lead**
-*Game QA Veteran (Gameloft 5.5 yrs) · App Release Lead (Ruangguru) · Product Builder (Kulino Tech)*
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Interactive_Portfolio-kustiarnow.kulino.tech-00F5D4?style=for-the-badge&logoColor=black)](https://kustiarnow.kulino.tech)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nureko_Wibowo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nurekowibowo)&nbsp;
-[![Email](https://img.shields.io/badge/Email-nureko.wibowo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nureko.wibowo@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-kustiarnow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kustiarnow)
-
-</div>
+<p align="center">
+  <a href="https://kustiarnow.kulino.tech"><img src="https://img.shields.io/badge/Portfolio-kustiarnow.kulino.tech-00F5D4?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/nurekowibowo"><img src="https://img.shields.io/badge/LinkedIn-nurekowibowo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ---
 
-## 🧭 About Me
+### 👨‍💻 About Me
 
-```yaml
-Name        : Nureko Kustiarno Wibowo
-GitHub      : @kustiarnow
-Role        : Senior QA Engineer & Release Lead
-Experience  : 11+ Years in Software QA & Release Operations
-Location    : Indonesia 🇮🇩
-
-Background  :
-  - 🎮 Gameloft (5.5 yrs) : Game QA Specialist across 14+ global titles (Asphalt 9, Modern Combat 5, Minion Rush)
-  - 🏢 Ruangguru          : Lead QA & Release Coordinator (40+ releases, 33% cycle speedup, 99%+ crash-free)
-  - ⚽ Pixle Byte         : Senior QA Engineer (Persib App & Store, high-concurrency inventory sync, 0 oversells)
-  - 🌱 Kulino Tech        : Founder & Builder (StarHabit, Mikir Kids, Kulino Booth, Coffee Flow)
-
-Specialization : Mobile QA, Game Testing, Release Engineering, API & Stress Testing, Local-First Apps
-```
+- 🎮 **Game QA @ Gameloft (5.5 yrs)** — tested 14 global titles: *Asphalt 9: Legends*, *Modern Combat 5*, *Minion Rush*, *Gangstar Vegas*, *Dungeon Hunter 5*
+- 🏢 **QA Lead & Release Coordinator @ Ruangguru** — directed 40+ mobile releases (Android & iOS), accelerated release cycle by **33%**, led live-ops QA for *Clash of Champions*
+- ⚽ **Senior QA Engineer @ Pixle Byte** — owned 40+ user journeys for *Persib Official App & Store*, **0 oversells** during high-load flash sales
+- 📱 **11+ years** in mobile QA, game testing, API testing, and release operations
 
 ---
 
-## 📊 Key Highlights & Metrics
+### 🛠️ QA Tools & Stack
 
-<div align="center">
+<p align="left">
+  <a href="https://postman.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40" title="Postman"/></a>
+  <a href="https://jira.atlassian.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40" title="Jira"/></a>
+  <a href="https://firebase.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase Crashlytics"/></a>
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40" title="Android"/></a>
+  <a href="https://apple.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40" title="iOS"/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github actions" width="40" height="40" title="GitHub Actions"/></a>
+</p>
 
-| Metric | Achievement | Impact |
+`Postman` `k6 Load Testing` `Firebase Crashlytics` `Charles Proxy` `Jira` `TestRail`
+`Google Play Console` `App Store Connect` `Firebase App Distribution` `Xcode` `Android Studio`
+
+---
+
+### 🚀 QA Track Record
+
+| Project | Role | Highlight |
 | :--- | :--- | :--- |
-| 🎮 **Gameloft QA** | **14 Global Titles** Shipped | Shipped PC/Mobile titles (*Asphalt Legends, Modern Combat 5*) |
-| 🚀 **Ruangguru Releases** | **40+ Mobile App Releases** | Accelerated release cycle by **33%** |
-| 📱 **App Stability** | **99.00%+ Crash-Free Sessions** | Maintained across Android & iOS production pools |
-| ⚡ **Peak Concurrency** | **0 Oversells** | Sustained high-load inventory sync for Persib Official Store |
-| 🛠️ **Product Suite** | **4 Consumer Apps** | Built & published under Kulino Tech (*StarHabit, Mikir Kids, etc.*) |
-
-</div>
+| 🎮 **Gameloft — 14 Titles** | Game QA Specialist | *Asphalt 9, MC5, Minion Rush, Gangstar Vegas* — gameplay, physics, IAP, COPPA/GDPR |
+| 🏢 **Ruangguru Mobile App** | QA Lead & Release Coordinator | 40+ releases · 33% faster cycle · 99%+ crash-free · Payment module QA |
+| 🏆 **Clash of Champions (Live-Ops)** | QA Lead | Real-time voting & streaming event under high concurrency |
+| ⚽ **Persib Official App & Store** | Senior QA Engineer | 40+ user journeys · 0 oversells · Vendure × Jubelio inventory sync |
+| 🏀 **Satria Muda Pertamina App** | Senior QA Engineer | Basketball club app · digital ticketing · fan store |
 
 ---
 
-## 🛠️ Tech Stack & QA Tooling
+### 🌱 Also Building — Kulino Tech (Personal Projects)
 
-<div align="center">
+> I also build consumer apps independently — because understanding how products are *built* makes me a better QA.
 
-### 🔍 Testing & QA Automation
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![Firebase Crashlytics](https://img.shields.io/badge/Firebase_Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-2C2C2C?style=for-the-badge&logoColor=white)
-
-### 📱 Release & CI/CD
-![Google Play Console](https://img.shields.io/badge/Play_Console-412991?style=for-the-badge&logo=googleplay&logoColor=white)
-![App Store Connect](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=apple&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Firebase Distribution](https://img.shields.io/badge/Firebase_Distribution-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 💻 Development & Architecture
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PGlite WASM](https://img.shields.io/badge/PGlite_WASM-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
+| App | What it is | Stack |
+| :--- | :--- | :--- |
+| ⭐ **StarHabit** | Gamified habit tracker for kids (Kazdin Token Economy loop) | Android · Firebase |
+| 🧠 **Mikir Kids** | Visual-spatial brain training with local-first offline architecture | Next.js · PGlite WASM |
+| 📸 **Kulino Booth** | Android tablet photobooth system for live events (DSLR + thermal printer) | Android · BLE/SPP |
+| ☕ **Coffee Flow** | Specialty coffee brew ratio calculator & recipe engine | React Native |
 
 ---
 
-## 🌟 Featured Projects & Track Record
-
-| Icon | Project | Role / Scope | Key Tech / Focus | Showcase |
-| :---: | :--- | :--- | :--- | :---: |
-| 🎮 | **Gameloft — 14 Titles** | Game QA Lead / Specialist | *Asphalt 9, Modern Combat 5, Minion Rush* | [🌐 View](https://kustiarnow.kulino.tech/projects) |
-| 🏢 | **Ruangguru Mobile App** | Release Operations Lead | 40+ App Versions, 33% Faster Cycle, Payment QA | [🌐 View](https://kustiarnow.kulino.tech/projects) |
-| ⚽ | **Persib Official App & Store** | Senior QA Engineer | High-Load Stress Testing, Vendure × Jubelio Sync | [🌐 View](https://kustiarnow.kulino.tech/projects) |
-| 🏀 | **Satria Muda Pertamina App** | Senior QA Engineer | Basketball Fan App, Ticketing & E-Commerce | [🌐 View](https://kustiarnow.kulino.tech/projects) |
-| ⭐ | **StarHabit** | Founder & Developer | Gamified Habit Tracker for Kids (Kazdin Economy) | [💻 Code](https://github.com/kustiarnow/starhabit-app) |
-| 🧠 | **Mikir Kids** | Founder & Developer | PGlite WASM Local-First Brain Training App | [💻 Code](https://github.com/kustiarnow/mikir-kids-app) |
-| 📸 | **Kulino Booth** | Founder & Developer | Android Photobooth System (DSLR/Thermal Printers) | [💻 Code](https://github.com/kustiarnow/kulino-booth) |
-| ☕ | **Coffee Flow** | Founder & Developer | Specialty Coffee Brew Ratio & Recipe Engine | [💻 Code](https://github.com/kustiarnow/coffeeflow-app) |
-
----
-
-## 📬 Connect with Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Website-kustiarnow.kulino.tech-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black)](https://kustiarnow.kulino.tech)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nureko_Wibowo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nurekowibowo)&nbsp;
-[![Email](https://img.shields.io/badge/Email-nureko.wibowo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nureko.wibowo@gmail.com)
-
-<br/>
-
-*Open for Senior QA Engineer, Release Lead, and Game Testing Opportunities.*
-
-</div>
+<p align="center">
+  <i>Open for Senior QA, Release Lead, and Game Testing opportunities.</i><br/>
+  <b><a href="https://kustiarnow.kulino.tech">View full portfolio →</a></b>
+</p>
