@@ -22,18 +22,17 @@
 
 ### QA Tools & Stack
 
-<p align="left">
-  <a href="https://postman.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40" title="Postman"/></a>
-  <a href="https://jira.atlassian.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40" title="Jira"/></a>
-  <a href="https://firebase.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase Crashlytics"/></a>
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40" title="Android"/></a>
-  <a href="https://apple.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40" title="iOS"/></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/></a>
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github actions" width="40" height="40" title="GitHub Actions"/></a>
-</p>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_Crashlytics-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play_Console-412991?style=flat-square&logo=googleplay&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=flat-square&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-`Postman` `k6 Load Testing` `Firebase Crashlytics` `Charles Proxy` `Jira` `TestRail`  
-`Google Play Console` `App Store Connect` `Firebase App Distribution` `Xcode` `Android Studio`
+`k6 Load Testing` `Charles Proxy` `TestRail` `Firebase App Distribution` `Xcode` `Android Studio`
 
 ---
 
