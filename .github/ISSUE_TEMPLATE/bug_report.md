@@ -4,6 +4,7 @@ about: Create a bug report following the standard QA format
 title: "[BUG] [PRIORITY][Component] Short description"
 labels: type:bug
 assignees: ''
+
 ---
 
 ## Bug Description
